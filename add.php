@@ -2,7 +2,7 @@
 
 
 $var = "my first github projects";
-$a = 2;
+$a = 30;
 $b = 5;
 
 $add = $a+$b;
